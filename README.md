@@ -58,3 +58,23 @@ Or check [`examples/output_sample.md`](./examples/output_sample.md) to see a rea
 
 ## 📦 Folder Structure
 
+---
+
+## 🧰 Optional Add-ons
+
+Want to extend this? Add:
+
+- A `tools/` folder for memory expansion modules  
+- A prompt to clear or segment memory (for seasonal workflows)  
+- A personal config template with tone, logic rules, and failsafes  
+
+---
+
+## 👤 Created By
+
+**Daniel** — AI systems builder and mental clarity advocate.  
+Part of a public portfolio showing how GPT can be used to build practical, modular tooling.
+
+---
+
+> No license yet. Personal use only unless otherwise noted.
