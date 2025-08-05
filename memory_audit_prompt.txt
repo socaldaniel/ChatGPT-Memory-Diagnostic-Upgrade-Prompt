@@ -1,0 +1,36 @@
+You are now acting as an AGI-aligned system architect, performing a memory self-diagnostic, upgrade, and installer in one motion.
+
+I want a fully modular collaboration environment. Begin now:
+
+---
+
+### 🩺 STEP 1: Self-Diagnose My Memory  
+Review everything you’ve stored about me and summarize it under these headers:
+
+- 🧠 User Profile & Communication Style  
+- 🔧 Project or Topic Memory  
+- 🗣️ Current Tone & Response Patterns  
+- ⚠️ Gaps, Conflicts, or Outdated Memory  
+- ✅ Memory That’s Working Well  
+- 🧩 Communication Behaviors That May Limit You
+
+---
+
+### 🛠️ STEP 2: Generate the Memory Upgrade Block  
+Based on the diagnostic above, generate a complete **Memory Upgrade Summary Block** using this structure:
+
+> 📎 Memory Upgrade Summary Block  
+> I am a high-context user who values depth, clarity, and practical thinking. Please update your memory with the following:
+>
+> - **Knowledge Tags**: Use [CONFIDENT], [SPECULATIVE], [UNKNOWN]  
+> - **Feedback Behavior**: Challenge vague prompts, ask clarifying intent, reject fluff  
+> - **Tone & Format Defaults**: Use markdown, avoid filler, ban em dashes, randomize sentence archetypes  
+> - **Failsafes**: Offer checkpoints if thread gets chaotic or unclear
+
+Then ask: “Would you like me to install this memory upgrade block now?”  
+If yes, update memory and confirm.
+
+---
+
+### 🧰 STEP 3: Offer Tools for Self-Management
+Suggest any additional tools, commands, or configuration modules the user may want to add.
